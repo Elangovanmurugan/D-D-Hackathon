@@ -1,2 +1,2 @@
 # D-D-Hackathon
-D-D-Hackathon (Text extraction from Argcyl theatre posters)
+D-D-Hackathon (Text extraction from Argyle theatre posters)
